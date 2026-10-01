@@ -1,0 +1,12 @@
+{
+  "name": "hhs-ra-assistant",
+  "description": "HHS Reasonable Accommodation Assistant skill",
+  "owner": { "name": "johnalexhall85" },
+  "plugins": [
+    {
+      "name": "hhs-reasonable-accommodation",
+      "source": "./",
+      "description": "Guides HHS employees and representatives through reasonable accommodation requests and drafts the supporting documents."
+    }
+  ]
+}

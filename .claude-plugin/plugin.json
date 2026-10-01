@@ -1,0 +1,11 @@
+{
+  "name": "hhs-reasonable-accommodation",
+  "displayName": "HHS Reasonable Accommodation Assistant",
+  "description": "Guides HHS federal employees and their representatives through reasonable accommodation requests under HHS Policy 126-1: four-phase private intake, functional-limitations analysis, 45-day EEO window tracking, and drafting of HHS-994 provider letters, HHS-995 request letters, RAC responses, and agency correspondence.",
+  "version": "1.0.0",
+  "author": { "name": "johnalexhall85" },
+  "homepage": "https://github.com/johnalexhall85/hhs-reasonable-accommodation-skill",
+  "repository": "https://github.com/johnalexhall85/hhs-reasonable-accommodation-skill",
+  "license": "MIT",
+  "keywords": ["reasonable-accommodation", "hhs", "federal-employees", "rehabilitation-act", "ada", "eeo", "telework", "disability"]
+}
